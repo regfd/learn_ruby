@@ -1,6 +1,4 @@
 ##write your code here
-
-
 def translate(input)
     vowel = ['a', 'e', 'i', 'o', 'u']
     consonants = ['b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'x', 'z']
